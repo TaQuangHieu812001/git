@@ -1,0 +1,4 @@
+C:\Users\dell\Desktop\git\obj\Debug\netcoreapp3.1\ConsoleApp2.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\git\obj\Debug\netcoreapp3.1\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\git\obj\Debug\netcoreapp3.1\ConsoleApp2.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\git\obj\Debug\netcoreapp3.1\ConsoleApp2.AssemblyInfo.cs
